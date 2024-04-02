@@ -18,6 +18,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+### Program for swapping of two values
+### Program Developed by :HAREVASU S
+### Register No. :212223230069
+
 ```
 n1,n2=int(input()),int(input())
 temp = n2
@@ -27,8 +31,7 @@ print("Swapped values are:",n1,n2)
 ```
 ## OUTPUT:
 
-![Screenshot 2024-03-13 110624](https://github.com/Harevasu/Swapping-two-values/assets/147985044/a8e39040-3dea-4b64-ba5c-2603d1569287)
-
+![alt text](image.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
